@@ -28,6 +28,6 @@ Feita em HTML, CSS e JavaScript puro, ela permite calcular e acompanhar **receit
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/tabela-orcamento-familiar.git
+   git clone https://github.com/jeffersonjaily/tabela-orcamentos-familiar
 ---
 ### Toda ajuda é bem vinda 
